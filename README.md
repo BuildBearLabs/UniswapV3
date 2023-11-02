@@ -5,7 +5,7 @@ This Project has been created using [Hardhat x BuildBear](https://github.com/Bui
 > 1️⃣ Clone/fork Hardhat x Buildbear:
 
 ```bash
-git clone link
+git clone https://github.com/BuildBearLabs/UniswapV3.git
 ```
 
 > 2️⃣ Install dependencies 
